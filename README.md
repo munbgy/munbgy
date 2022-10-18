@@ -22,7 +22,7 @@
       <img src="https://github.com/munbgy/munbgy/blob/main/7156618_git_github_icon.png?raw=true" alt="git" height="70"/>
     </a> <br> 
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-      <img src="hhttps://github.com/munbgy/munbgy/blob/main/9073363_mongodb_icon.png?raw=true" alt="mongodb" height="70"/> 
+      <img src="https://github.com/munbgy/munbgy/blob/main/9073363_mongodb_icon.png?raw=true" alt="mongodb" height="70"/> 
     </a> &nbsp;
     <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
       <img src="https://user-images.githubusercontent.com/98843063/175435998-fdf22fb9-9c26-46ae-aaee-0779316e3ad5.svg" alt="express" height="70"/> 
