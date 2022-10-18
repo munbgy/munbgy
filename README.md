@@ -19,7 +19,7 @@
       <img src="https://github.com/munbgy/munbgy/blob/main/9035061_logo_javascript_icon.png?raw=true" alt="javascript" height="70"/> 
     </a> &nbsp;
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-      <img src="https://user-images.githubusercontent.com/98843063/175435757-b70e25e9-cb81-4d0e-be5a-d5895091d48a.svg" alt="git" height="70"/>
+      <img src="https://github.com/munbgy/munbgy/blob/main/7156618_git_github_icon.png?raw=true" alt="git" height="70"/>
     </a> <br> 
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
       <img src="https://user-images.githubusercontent.com/98843063/175435936-84a81686-5a28-40e1-8c89-b9bcdb21696c.svg" alt="mongodb" height="70"/> 
