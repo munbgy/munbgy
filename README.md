@@ -25,7 +25,7 @@
       <img src="https://github.com/munbgy/munbgy/blob/main/9073363_mongodb_icon.png?raw=true" alt="mongodb" height="70"/> 
     </a> &nbsp;
     <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-      <img src="[https://user-images.githubusercontent.com/98843063/175435998-fdf22fb9-9c26-46ae-aaee-0779316e3ad5](https://avatars.githubusercontent.com/u/1160530?s=200&v=4)" alt="passport" height="70"
+      <img src="https://avatars.githubusercontent.com/u/1160530?s=200&v=4" alt="passport" height="70"
     </a> &nbsp; -->
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
       <img src="https://user-images.githubusercontent.com/101841508/196549776-88ee7749-fb76-4b7a-84d8-94a034ea8c85.png" alt="react" height="70"/> 
