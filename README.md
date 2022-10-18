@@ -38,10 +38,10 @@
 <h2 align="left">Connect with Me:</h2>
 
 <p align="center">
-<a href="https://twitter.com/apirruccello" target="blank"><img align="center" src="https://user-images.githubusercontent.com/98843063/175436564-5f01cc03-6883-40de-9790-3f4ef4961e14.svg" alt="aliaTwitter" height="40"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://linkedin.com/in/alia-pirruccello" target="blank"><img align="center" src="https://user-images.githubusercontent.com/98843063/175436637-b715b635-5fb2-46bd-87f7-defcb2710121.svg" alt="biancatogonon" height="40"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/aliapirruccello/"><img align="center" src="https://user-images.githubusercontent.com/98843063/175436733-6f6be381-aab2-4a9d-b2b9-a25a472ac171.svg" alt="biancatogonon" height="40"/></a>&nbsp;&nbsp;&nbsp;
-<a href="mailto:alia.pirruccello@gmail.com"><img align="center" src="https://user-images.githubusercontent.com/98843063/175436782-400c270c-1f16-4f26-bd91-f0dbad1e0dc0.svg" alt="biancatogonon" height="40"/></a>
+<a href="https://twitter.com/daniel_vroman" target="blank"><img align="center" src="https://user-images.githubusercontent.com/98843063/175436564-5f01cc03-6883-40de-9790-3f4ef4961e14.svg" alt="danTwitter" height="40"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/daniel-vroman" target="blank"><img align="center" src="https://user-images.githubusercontent.com/98843063/175436637-b715b635-5fb2-46bd-87f7-defcb2710121.svg" alt="danLinkedIn" height="40"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/munbgy/"><img align="center" src="https://user-images.githubusercontent.com/98843063/175436733-6f6be381-aab2-4a9d-b2b9-a25a472ac171.svg" alt="gitHub" height="40"/></a>&nbsp;&nbsp;&nbsp;
+<a href="mailto:daniel.vroman@gmail.com"><img align="center" src="https://user-images.githubusercontent.com/98843063/175436782-400c270c-1f16-4f26-bd91-f0dbad1e0dc0.svg" alt="email" height="40"/></a>
 </p>
 
 <!--
