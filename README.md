@@ -1,4 +1,4 @@
-<img align="center" alt="danSocialCard" src="https://github.com/munbgy/munbgy/blob/main/socialcard.png?raw=true">
+<img align="center" alt="danlogo" src="https://github.com/munbgy/munbgy/blob/main/Github%20Logo.png?raw=true">
 
 <h1 align="center">Hi 👋, I'm Dan </h1>
 <h3 align="center">A full stack software engineer based in Alexandria, VA.</h3>
