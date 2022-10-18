@@ -1,9 +1,9 @@
 <img align="center" alt="danlogo" src="https://github.com/munbgy/munbgy/blob/main/Github%20Logo.png?raw=true">
 
 <h1 align="center">Hi 👋, I'm Dan </h1>
-<h3 align="center">A full stack software engineer based in Alexandria, VA.</h3>
+<h3 align="center">A full-stack software engineer based in Alexandria, VA.</h3>
 
-- 🌱 I’m currently learning **React** and **DS&A**
+- 🌱 I’m currently learning **React** and **Data Structures & Algos**
 - 💼 Accepting new clients. Check out my [portfolio!](https://daniel-vroman.netlify.app)
 - 📫 Email me at [daniel.vroman@gmail.com](mailto:daniel.vroman@gmail.com)
 
