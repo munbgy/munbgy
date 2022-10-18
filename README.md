@@ -5,8 +5,7 @@
 
 - 🌱 I’m currently learning **React**
 - 💼 Accepting new clients. Check out my [portfolio!](https://daniel-vroman.netlify.app)
-
-- 📫 Email me at [daniel.vroman@gmail.com](mailto:daniel.vroman @gmail.com)
+- 📫 Email me at [daniel.vroman@gmail.com](mailto:daniel.vroman@gmail.com)
 
 <!--
 **munbgy/munbgy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
