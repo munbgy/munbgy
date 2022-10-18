@@ -31,7 +31,7 @@
       <img src="https://user-images.githubusercontent.com/101841508/196549776-88ee7749-fb76-4b7a-84d8-94a034ea8c85.png" alt="react" height="70"/> 
     </a> &nbsp;
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-      <img src="https://user-images.githubusercontent.com/98843063/175436105-9412de70-d9e8-4b83-a641-6e324cc3b7aa.svg" alt="nodejs" height="70"/> 
+      <img src="https://github.com/munbgy/munbgy/blob/main/8547046_node_js_icon.png?raw=true" alt="nodejs" height="70"/> 
     </a> 
   </p>
 
