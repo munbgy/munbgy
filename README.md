@@ -40,7 +40,7 @@
 <p align="center">
 <a href="https://twitter.com/daniel_vroman" target="blank"><img align="center" src="https://github.com/munbgy/munbgy/blob/main/104501_twitter_bird_icon.png?raw=true" alt="danTwitter" height="40"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://linkedin.com/in/daniel-vroman" target="blank"><img align="center" src="https://github.com/munbgy/munbgy/blob/main/5282542_linkedin_network_social%20network_linkedin%20logo_icon.png?raw=true" alt="danLinkedIn" height="40"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/munbgy/"><img align="center" src="https://user-images.githubusercontent.com/98843063/175436733-6f6be381-aab2-4a9d-b2b9-a25a472ac171.svg" alt="gitHub" height="40"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/munbgy/"><img align="center" src="https://github.com/munbgy/munbgy/blob/main/291716_github_logo_social%20network_social_icon.png?raw=true" alt="gitHub" height="40"/></a>&nbsp;&nbsp;&nbsp;
 <a href="mailto:daniel.vroman@gmail.com"><img align="center" src="https://user-images.githubusercontent.com/98843063/175436782-400c270c-1f16-4f26-bd91-f0dbad1e0dc0.svg" alt="email" height="40"/></a>
 </p>
 
