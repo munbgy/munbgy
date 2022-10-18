@@ -1,6 +1,12 @@
 <img align="center" alt="danSocialCard" src="https://github.com/munbgy/munbgy/blob/main/socialcard.png?raw=true">
 
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Dan </h1>
+<h3 align="center">A full stack software engineer based in Alexandria, VA.</h3>
+
+- 🌱 I’m currently learning **React**
+- 💼 Accepting new clients. Check out my [portfolio!]([https://daniel-vroman.netlify.app])
+
+- 📫 Email me at [daniel.vroman@gmail.com](mailto:daniel.vroman @gmail.com)
 
 <!--
 **munbgy/munbgy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
