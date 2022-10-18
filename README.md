@@ -4,7 +4,7 @@
 <h3 align="center">A full stack software engineer based in Alexandria, VA.</h3>
 
 - 🌱 I’m currently learning **React**
-- 💼 Accepting new clients. Check out my [portfolio!]([https://daniel-vroman.netlify.app])
+- 💼 Accepting new clients. Check out my [portfolio!](https://daniel-vroman.netlify.app)
 
 - 📫 Email me at [daniel.vroman@gmail.com](mailto:daniel.vroman @gmail.com)
 
