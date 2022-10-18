@@ -13,7 +13,7 @@
         <img src="https://github.com/munbgy/munbgy/blob/main/8546886_html5_icon.png?raw=true" alt="html5" height="70"/>
     </a>&nbsp;
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-      <img src="https://user-images.githubusercontent.com/98843063/175435584-d2c85d31-a805-4c1b-b2d2-f17ad9bae1fb.svg" alt="css3" height="70"/>
+      <img src="https://github.com/munbgy/munbgy/blob/main/4691518_css3_icon.png?raw=true" alt="css3" height="70"/>
     </a> &nbsp;
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
       <img src="https://user-images.githubusercontent.com/98843063/175435695-fcef0aa6-8191-470e-8368-b87363d7fd17.svg" alt="javascript" height="70"/> 
