@@ -10,7 +10,7 @@
 <h2 align="left">Languages and Tools:</h2>
 <p align="center">
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://github.com/munbgy/munbgy/blob/main/104494_html5_html_icon.png?raw=true" alt="html5" height="70"/>
+        <img src="https://github.com/munbgy/munbgy/blob/main/8546886_html5_icon.png?raw=true" alt="html5" height="70"/>
     </a>&nbsp;
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
       <img src="https://user-images.githubusercontent.com/98843063/175435584-d2c85d31-a805-4c1b-b2d2-f17ad9bae1fb.svg" alt="css3" height="70"/>
