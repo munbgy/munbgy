@@ -24,11 +24,11 @@
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
       <img src="https://github.com/munbgy/munbgy/blob/main/9073363_mongodb_icon.png?raw=true" alt="mongodb" height="70"/> 
     </a> &nbsp;
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
+<!--     <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
       <img src="https://user-images.githubusercontent.com/98843063/175435998-fdf22fb9-9c26-46ae-aaee-0779316e3ad5.svg" alt="express" height="70"/> 
-    </a> &nbsp;
+    </a> &nbsp; -->
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-      <img src="https://user-images.githubusercontent.com/98843063/175436070-248f31af-fae8-4519-93d8-3d13b5c7299d.svg" alt="react" height="70"/> 
+      <img src="https://user-images.githubusercontent.com/101841508/196549776-88ee7749-fb76-4b7a-84d8-94a034ea8c85.png" alt="react" height="70"/> 
     </a> &nbsp;
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
       <img src="https://user-images.githubusercontent.com/98843063/175436105-9412de70-d9e8-4b83-a641-6e324cc3b7aa.svg" alt="nodejs" height="70"/> 
