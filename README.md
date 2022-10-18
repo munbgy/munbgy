@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Dan </h1>
 <h3 align="center">A full stack software engineer based in Alexandria, VA.</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React** and **DS&A**
 - 💼 Accepting new clients. Check out my [portfolio!](https://daniel-vroman.netlify.app)
 - 📫 Email me at [daniel.vroman@gmail.com](mailto:daniel.vroman@gmail.com)
 
